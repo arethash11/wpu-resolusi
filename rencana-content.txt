@@ -2,6 +2,7 @@ Rencana content web e-learning
 
 - Membuat video materi HTML & CSS
 - Membuat video materi beatstrap
+- Membuat fungsi struktur data dasar
 - Membuat video materi PHP Native
   * company profile
   * e-commerce
