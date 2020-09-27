@@ -1,0 +1,8 @@
+Rencana content web e-learning 
+
+- Membuat video materi HTML & CSS
+- Membuat video materi beatstrap
+- Membuat video materi PHP Native
+  * company profile
+  * e-commerce
+- Membuat video materi PHP frameworks
