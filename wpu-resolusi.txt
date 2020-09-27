@@ -1,0 +1,4 @@
+wpu resolusi.txt
+- Konsisten untuk membuat konten 2x seminggu
+- Membuat platform untuk pengelolaan video materi
+- Mebuat forum diskusi
