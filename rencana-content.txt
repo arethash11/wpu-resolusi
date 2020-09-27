@@ -7,4 +7,5 @@ Rencana content web e-learning
   * company profile
   * e-commerce
 - Membuat video materi PHP frameworks
- * CodeIgniter
+ * Laravel
+
