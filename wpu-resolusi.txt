@@ -2,5 +2,5 @@ wpu resolusi.txt
 - Konsisten untuk membuat konten 2x seminggu
 - Membuat platform untuk pengelolaan video materi
 - Mebuat forum diskusi
-- Membuat layanan chat online
+- Membuat fitur kuis
 - Fitur download ebooks
